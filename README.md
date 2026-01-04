@@ -1,4 +1,4 @@
-HealthAI Platform 🩺
+KNOW YOUR SELF Platform 🩺
 
 Live Demo: https://are-you-fit-cac45.web.app/
 
